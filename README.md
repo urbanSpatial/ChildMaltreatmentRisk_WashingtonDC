@@ -1,4 +1,4 @@
-# Predicting Geospatial Child Maltreatment Risk in Washington, D.C.
+# Predicting Geospatial Child Maltreatment Risk in Washington D.C.
 
 [This report]() presents results for the Urban Spatial/Predict Align Prevent analysis predicting geospatial child maltreatment risk in the District of Columbia. This document is designed to be read alongside the [Urban Spatial/PAP Technical Appendix](https://urbanspatial.github.io/UrbanSpatial_PAP_TechAppendix/).
 
